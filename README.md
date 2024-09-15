@@ -33,7 +33,7 @@ Parametric CVaR<br>
 Historical VaR<br>
 Historical CVaR<br>
 
-# **Data filesand Data Source** <br>
+# **Data Files & Data Source** <br>
 
 Source: Yahoo Finance, Kenneth French dataset  <br>
 

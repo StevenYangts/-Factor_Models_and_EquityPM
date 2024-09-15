@@ -1,4 +1,4 @@
-#**Project Overview**<br>
+#****Project Overview****<br>
 This project focuses on the factor exposure analysis of individual securities and portfolios, employing both static and rolling regression techniques using the Fama-French 3-Factor Model and the Carhart 4-Factor Model. Additionally, the project extends these multi-factor models to equity portfolio management.
 
 #**Key Features**<br>

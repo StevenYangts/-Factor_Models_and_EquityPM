@@ -5,7 +5,9 @@ This project focuses on the factor exposure analysis of individual securities an
 1. Factor Exposure Analysis
 
 Explore both static and rolling factor exposure of various securities using:
+
 Fama-French 3-Factor Model
+
 Carhart 4-Factor Model
 
 2. Equity Portfolio Management
@@ -20,11 +22,11 @@ Specific (Idiosyncratic) Variance
 
 The project includes basic functions to calculate portfolio-level performance and risk metrics, such as:
 
-Sharpe Ratio
-Sortino Ratio
-Calmar Ratio
-Max Drawdown
-Parametric VaR 
-Parametric CVaR 
-Historical VaR
-Historical CVaR
+Sharpe Ratio<br>
+Sortino Ratio<br>
+Calmar Ratio<br>
+Max Drawdown<br>
+Parametric VaR<br>
+Parametric CVaR<br>
+Historical VaR<br>
+Historical CVaR<br>

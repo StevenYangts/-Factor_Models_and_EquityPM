@@ -32,3 +32,10 @@ Parametric VaR<br>
 Parametric CVaR<br>
 Historical VaR<br>
 Historical CVaR<br>
+
+# **Data filesand Data Source** <br>
+
+Source: Yahoo Finance, Kenneth French dataset  <br>
+
+start_date = '2019-05-28' <br>
+end_date = '2024-03-28'<br>

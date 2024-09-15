@@ -13,7 +13,8 @@ Carhart 4-Factor Model
 ### **2. Equity Portfolio Management<br>**
 
 Functions developed to generate equity portfolios for given stock tickers and their corresponding weights.
-Portfolio Factor Exposure: Calculate the overall factor exposure of a portfolio based on the factor loadings of individual stocks.<br>
+Portfolio Factor Exposure: Calculate the overall factor exposure of a portfolio based on the factor loadings of individual stocks. <br>
+
 Risk Decomposition: Decompose portfolio risk into:<br>
 Common Factor Variance<br>
 Specific (Idiosyncratic) Variance

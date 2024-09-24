@@ -24,14 +24,14 @@ Risk Decomposition: Decompose portfolio risk into <br>
 
 The project includes basic functions to calculate portfolio-level performance and risk metrics, such as:
 
-Sharpe Ratio<br>
-Sortino Ratio<br>
-Calmar Ratio<br>
-Max Drawdown<br>
-Parametric VaR<br>
-Parametric CVaR<br>
-Historical VaR<br>
-Historical CVaR<br>
+- Sharpe Ratio<br>
+- Sortino Ratio<br>
+- Calmar Ratio<br>
+- Max Drawdown<br>
+- Parametric VaR<br>
+- Parametric CVaR<br>
+- Historical VaR<br>
+- Historical CVaR<br>
 
 # **Data Files & Data Source** <br>
 

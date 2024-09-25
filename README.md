@@ -6,9 +6,9 @@ This project focuses on the factor exposure analysis of individual securities an
 
 Explore both static and rolling factor exposure of various securities using:
 
-Fama-French 3-Factor Model
+- Fama-French 3-Factor Model
 
-Carhart 4-Factor Model
+- Carhart 4-Factor Model
 
 ### **2. Equity Portfolio Management<br>**
 
